@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g1kwvcesEiQqv28z2AKaqConVSI5ZX0KPGlBRrGogr0=",
+  "Source": "DbOperationWithEFCoreApp",
+  "BasePath": "_content/DbOperationWithEFCoreApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
