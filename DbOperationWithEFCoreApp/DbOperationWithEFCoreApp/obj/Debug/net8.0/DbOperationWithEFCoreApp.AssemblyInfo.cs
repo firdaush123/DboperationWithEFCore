@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbOperationWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f6d2817366d55d38728144e5703353211f46d7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+534640a7a48a742fb511725743df3fa1b5a59aba")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbOperationWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbOperationWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
